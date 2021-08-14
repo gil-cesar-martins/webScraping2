@@ -1,2 +1,2 @@
 # webScraping2
-Ao importar a biblioteca re (Regular Expression) poderei assim definir os paths das imagens de um site até chegar no tipo da extensão de arquivo que é 
+Ao importar a biblioteca re (Regular Expression) poderei assim definir os paths das imagens de um site até chegar no tipo da extensão de arquivo que é de meu interesse, no caso o .jpg
